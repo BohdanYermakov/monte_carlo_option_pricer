@@ -91,3 +91,9 @@ because, in that case, the estimated option price is lower than the strike price
 ## References
 
 Pellegrino, Roberta & Costantino, Nicola. (2012). A Monte Carlo Simulation and Fuzzy Delphi-Based Approach to Valuing Real Options in Engineering Fields. 10.5772/32513. 
+
+https://www.youtube.com/watch?v=pR32aii3shk
+
+https://www.youtube.com/watch?v=6-dhdMDiYWQ
+
+https://www.youtube.com/watch?v=Bi4HMe3-VV4
